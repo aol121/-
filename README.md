@@ -5,6 +5,10 @@
 ## Build Setup
 
 ``` bash
+
+# clone project 克隆项目
+git clone https://github.com/aol121/liding_cloud.git
+
 # install dependencies
 npm install
 
